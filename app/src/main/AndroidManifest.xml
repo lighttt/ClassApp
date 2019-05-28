@@ -12,8 +12,8 @@
         <activity android:name=".MainActivity"></activity>
         <activity android:name=".CurrencyActivity"></activity>
         <activity android:name=".NumberShapeAcitivty"></activity>
-        <activity android:name=".GuessActivity"></activity>
-        <activity android:name=".FadingActivity">
+        <activity android:name=".FadingActivity"></activity>
+        <activity android:name=".GuessActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
